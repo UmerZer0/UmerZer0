@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmerZer0
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Frontend Web Development
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on QoL, hobby projects
 - 📫 How to reach me uno4umer@gmail.com
 
